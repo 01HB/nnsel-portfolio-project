@@ -1,0 +1,6 @@
+[submodule "portfolio_management_nest"]
+	path = portfolio_management_nest
+	url = https://github.com/01HB/portfolio-mgmt-nest.git
+[submodule "portfolio-landing-page-next"]
+	path = portfolio-landing-page-next
+	url = https://github.com/01HB/portfolio-mgmt-next.git
